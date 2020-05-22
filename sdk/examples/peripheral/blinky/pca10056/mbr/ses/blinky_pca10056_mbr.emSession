@@ -1,0 +1,73 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="blinky_pca10056_mbr" radix="16" sizeText="0" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="blinky_pca10056_mbr" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="blinky_pca10056_mbr" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="blinky_pca10056_mbr" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="blinky_pca10056_mbr"/>
+  <ProjectSessionItem path="blinky_pca10056_mbr;blinky_pca10056_mbr"/>
+  <ProjectSessionItem path="blinky_pca10056_mbr;blinky_pca10056_mbr;Application"/>
+  <ProjectSessionItem path="blinky_pca10056_mbr;blinky_pca10056_mbr;Board Definition"/>
+  <ProjectSessionItem path="blinky_pca10056_mbr;blinky_pca10056_mbr;nRF_Drivers"/>
+  <ProjectSessionItem path="blinky_pca10056_mbr;blinky_pca10056_mbr;Segger Startup Files"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal;UICR/NRFFW[0];UICR/NRFFW[1];UICR/NRFFW[2];UICR/NRFFW[3];UICR/NRFFW[4];UICR/NRFFW[5];UICR/NRFFW[6];UICR/NRFFW[7];UICR/NRFFW[8];UICR/NRFFW[9];UICR/NRFFW[10];UICR/NRFFW[11];UICR/NRFFW[12];UICR/NRFHW[0];UICR/NRFHW[1];UICR/NRFHW[2];UICR/NRFHW[3];UICR/NRFHW[4];UICR/NRFHW[5];UICR/NRFHW[6];UICR/NRFHW[7];UICR/NRFHW[8];UICR/NRFHW[9];UICR/NRFHW[10];UICR/NRFHW[11];UICR/CUSTOMER[0];UICR/CUSTOMER[1];UICR/CUSTOMER[2];UICR/CUSTOMER[3];UICR/CUSTOMER[4];UICR/CUSTOMER[5];UICR/CUSTOMER[6];UICR/CUSTOMER[7];UICR/CUSTOMER[8];UICR/CUSTOMER[9];UICR/CUSTOMER[10];UICR/CUSTOMER[11];UICR/CUSTOMER[12];UICR/CUSTOMER[13];UICR/CUSTOMER[14];UICR/CUSTOMER[15];UICR/CUSTOMER[16];UICR/CUSTOMER[17];UICR/CUSTOMER[18];UICR/CUSTOMER[19];UICR/CUSTOMER[20];UICR/CUSTOMER[21];UICR/CUSTOMER[22];UICR/CUSTOMER[23];UICR/CUSTOMER[24];UICR/CUSTOMER[25];UICR/CUSTOMER[26];UICR/CUSTOMER[27];UICR/CUSTOMER[28];UICR/CUSTOMER[29];UICR/CUSTOMER[30];UICR/CUSTOMER[31];UICR/PSELRESET[0];UICR/PSELRESET[1];UICR/APPROTECT;UICR/NFCPINS;UICR/DEBUGCTRL;UICR/REGOUT0;POWER/TASKS_CONSTLAT;POWER/TASKS_LOWPWR;POWER/EVENTS_POFWARN;POWER/EVENTS_SLEEPENTER;POWER/EVENTS_SLEEPEXIT;POWER/EVENTS_USBDETECTED;POWER/EVENTS_USBREMOVED;POWER/EVENTS_USBPWRRDY;POWER/INTENSET;POWER/INTENCLR;POWER/RESETREAS;POWER/RAMSTATUS;POWER/USBREGSTATUS;POWER/SYSTEMOFF;POWER/POFCON;POWER/GPREGRET;POWER/GPREGRET2;POWER/DCDCEN;POWER/DCDCEN0;POWER/MAINREGSTATUS;POWER/RAM[0].POWER;POWER/RAM[0].POWERSET;POWER/RAM[0].POWERCLR;POWER/RAM[1].POWER;POWER/RAM[1].POWERSET;POWER/RAM[1].POWERCLR;POWER/RAM[2].POWER;POWER/RAM[2].POWERSET;POWER/RAM[2].POWERCLR;POWER/RAM[3].POWER;POWER/RAM[3].POWERSET;POWER/RAM[3].POWERCLR;POWER/RAM[4].POWER;POWER/RAM[4].POWERSET;POWER/RAM[4].POWERCLR;POWER/RAM[5].POWER;POWER/RAM[5].POWERSET;POWER/RAM[5].POWERCLR;POWER/RAM[6].POWER;POWER/RAM[6].POWERSET;POWER/RAM[6].POWERCLR;POWER/RAM[7].POWER;POWER/RAM[7].POWERSET;POWER/RAM[7].POWERCLR;POWER/RAM[8].POWER;POWER/RAM[8].POWERSET;POWER/RAM[8].POWERCLR;NVMC/READY;NVMC/READYNEXT;NVMC/CONFIG;NVMC/ERASEPAGE;NVMC/ERASEPCR1;NVMC/ERASEALL;NVMC/ERASEPCR0;NVMC/ERASEUICR;NVMC/ERASEPAGEPARTIAL;NVMC/ERASEPAGEPARTIALCFG;NVMC/ICACHECNF;NVMC/IHIT;NVMC/IMISS" binaryNodes="" asciiNodes="" openNodes="UICR;UICR/DEBUGCTRL;UICR/REGOUT0;POWER/DCDCEN;POWER/DCDCEN0;NVMC;NVMC/CONFIG" name="blinky_pca10056_mbr" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="blinky_pca10056_mbr" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="blinky_pca10056_mbr" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="blinky_pca10056_mbr" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Each Second"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="10" y="25" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/mdk/nrf.h" selected="0" top="40" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="622" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_gpio.h" selected="0" top="599" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/toolchain/cmsis/include/cmsis_gcc.h" selected="0" top="1231" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/mdk/compiler_abstraction.h" selected="0" top="109" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="947" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/mdk/nrf52840.h" selected="0" top="932" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="15832" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/mdk/nrf52840_bitfields.h" selected="0" top="15805" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="293" useTextEdit="1" useBinaryEdit="0" left="0" path="C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.40/source/thumb_crt0.s" selected="0" top="270" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="135" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/soc/nrfx_coredep.h" selected="1" top="135" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="54" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/delay/nrf_delay.h" selected="0" top="43" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="204" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/nrfx_glue.h" selected="0" top="184" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="blinky_pca10056_mbr" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
